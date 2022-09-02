@@ -1,0 +1,129 @@
+body{
+  margin: 0%;
+  padding: 0;
+  font-family:sans-serif;
+  background-color: white;
+  background-size: cover;
+  background-position: center;
+}.child_div{
+  height: 50%;
+  width: 50vw;
+  background-color:purple;
+  position: absolute;
+  text-align: center;
+  left: 25%;
+  top:22%;
+}#id1{
+  position: absolute;
+  left:13%;
+  top: 8%;
+  color: white;
+}#id2{
+  position: absolute;
+  left: 8%;
+  top: 20%;
+  color: white;
+}#id3{
+  position: absolute;
+  left:8% ;
+  top: 32%;
+  color: white;
+}#id4{
+  position: absolute;
+  left: 8%;
+  top: 40%;
+  color: white;
+}#id5{
+  position: absolute;
+  top: 50%;
+  left:8%;
+  color: white;
+}#id6{
+  position:absolute;
+  top: 60%;
+  left:8%;
+  color: white;
+}p.noramal1{
+  position: absolute;
+  left: 55%;;
+  width: 30%;
+  border: 2px solid white;
+  border-radius: 35px;
+  padding: 20px;
+  height: 7%;
+  top: 20%;
+  background-color: aliceblue;
+}p.noramal2{
+  position: absolute;
+  left: 55%;;
+  width: 30%;
+  border: 2px solid white;
+  border-radius: 35px;
+  padding: 20px;
+  height: 7%;
+  top: 50%;
+  background-color: aliceblue;
+}#id7{
+  position: absolute;
+  left: 59%;
+  top: 22%;
+  color: palevioletred;
+}#id8{
+  position: absolute;
+  left: 59%;
+  top: 28%;
+  color: palevioletred;
+}
+#id9{
+  position: absolute;
+  left: 59%;
+  top: 52%;
+  color: palevioletred;
+}#id10{
+  position: absolute;
+  left: 59%;
+  top: 58%;
+  color: palevioletred;
+}#id11{
+  position: absolute;
+  left: 9%;
+  top: 75%;
+  font-size:x-large;
+  color: white;
+}#id12{
+  position: absolute;
+  left: 14%;
+  top: 75%;
+  font-size:x-large;
+  color: white;
+}#id13{
+  position: absolute;
+  left: 19%;
+  top: 75%;
+  font-size:x-large;
+  color: white;
+}#id14{
+  position: absolute;
+  left: 24%;
+  top: 75%;
+  font-size:x-large;
+  color: white;
+}#id15{
+  position: absolute;
+  left: 84%;
+  top: 30%;
+  font-size:xx-large;
+  color:brown;
+}#id16{
+  position: absolute;
+  left: 82%;
+  top: 61%;
+  font-size:xx-large;
+  color:brown;
+}#id17{
+  position: absolute;
+  left: 8%;
+  top: 15%;
+  font-size:large;
+  color: white;
+}
